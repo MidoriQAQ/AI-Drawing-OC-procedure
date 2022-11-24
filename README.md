@@ -28,3 +28,7 @@ Resize.exe, run with the 4K model do massive production
 6. Resize.exe to enhance resolution
 
 
+<b>Examples:</b>
+
+Screenshot from FF14:
+![alt text](http://url/to/img.png](https://github.com/MidoriQAQ/AI-Drawing-OC-procedure/blob/main/PackageForRealEsrgan/Examples/ff14ninja.png)
