@@ -31,4 +31,4 @@ Resize.exe, run with the 4K model do massive production
 <b>Examples:</b>
 
 Screenshot from FF14:
-![alt text](http://url/to/img.png](https://github.com/MidoriQAQ/AI-Drawing-OC-procedure/blob/main/PackageForRealEsrgan/Examples/ff14ninja.png)
+![alt text](https://github.com/MidoriQAQ/AI-Drawing-OC-procedure/blob/main/PackageForRealEsrgan/Examples/ff14ninja.png)
