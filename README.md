@@ -17,8 +17,9 @@ Contain Input and Output Folders for read and store the output, examples are inc
 <br>
 Resize.exe, run with the 4K model do massive production
 <br>
+<br>
 
-<b>Procedure</b>
+<b>Procedure:</b>
 1. Libraries ready and models in.
 2. Extract tags from image using Tagger. (Extra Library and models used can be found in Extensions)
 3. Prepare and edit tags.
