@@ -1,5 +1,4 @@
 # AI-Drawing-OC-procedure
-Summary of procedures for drawing, self-use
 
 <b>Ref:</b> 
 <br>
