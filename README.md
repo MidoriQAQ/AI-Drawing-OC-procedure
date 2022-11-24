@@ -31,9 +31,9 @@ Resize.exe, run with the 4K model do massive production
 <b>Examples:</b>
 
 Screenshot from FF14:<br>
-![Alt text](/PackageForRealEsrgan/Examples/ff14ninja.png?raw=true "FF14 Ninja" | width=100)
+![Alt text](/PackageForRealEsrgan/Examples/ff14ninja.png?raw=true "FF14 Ninja" width=50% height=50%)
 <br>
 After:<br>
-![Alt text](/PackageForRealEsrgan/outputs/renzhe.png?raw=true "FF14 Ninja Draw" | width=100)
+![Alt text](/PackageForRealEsrgan/outputs/renzhe.png?raw=true "FF14 Ninja Draw" width=50% height=50%)
 
 <>
