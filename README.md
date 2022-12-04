@@ -7,7 +7,7 @@
 <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">Stable Diffusion web UI</a>
 
 <b>Package for models (stored in Google Drive):</b>
-Store the trained models can be used. One original Model and one enhanced with anime art style( one ckpt with an additional pt file support). 
+Store the fine-tuned diffusion models. 
 <a href="https://drive.google.com/drive/folders/15QViq_LqMdxo8Fk_xibxy-_CCoa3FR_L?usp=sharing">Link to Google Drive</a>
 
 <br>
